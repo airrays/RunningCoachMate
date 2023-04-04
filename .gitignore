@@ -1,0 +1,10 @@
+.idea
+.vscode
+.vs
+/src/backend/target
+/src/backend/settings.xml
+/src/backend/.classpath
+/src/backend/.project
+/app_log
+/src/mlmodule/coachingmate/__pycache__
+/src/frontend-new
